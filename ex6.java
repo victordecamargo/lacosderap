@@ -37,28 +37,28 @@ public class ex6 {
 		case 3:
 			atualizado = (float) (salario * 0.09f);
 			aumento = salario + atualizado;
-			fish = "Gerente" ;
+			fish = "" ;
 			System.out.println("\nOlá Supervisor: " + nome + "\nSeu novo salario é: " + aumento);
 			break;
 			
 		case 4:
 			atualizado = (float) (salario * 0.06f);
 			aumento = salario + atualizado;
-			fish = "Gerente" ;
+			fish = "" ;
 			System.out.println("\nOlá Motorista: " + nome + "\nSeu novo salario é: " + aumento);
 			break;
 			
 		case 5:
 			atualizado = (float) (salario * 0.05f);
 			aumento = salario + atualizado;
-			fish = "Gerente" ;
+			fish = "" ;
 			System.out.println("\nOlá Estoquista: " + nome + "\nSeu novo salario é: " + aumento);
 			break;
 			
 		case 6:
 			atualizado = (float) (salario * 0.08f);
 			aumento = salario + atualizado;
-			fish = "Gerente" ;
+			fish = "" ;
 			System.out.println("\nOlá Técnico de TI: " + nome + "\nSeu novo salario é: " + aumento);
 			break;
 			

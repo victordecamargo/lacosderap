@@ -22,7 +22,7 @@ public class LacosDeRepeticao {
 		if(soma > valor3 ) {
 			System.out.println("\nOs dois primeiros valores somados são maiores que o ultimo valor");
 		}else if(soma == valor3) {
-			System.out.println("\nOs dois primeiros valores somados são iguais que o ultimo valor");
+			System.out.println("\nOs dois primeiros valores somados são iguais  ao ultimo valor");
 		}else {
 			System.out.println("\nOs dois primeiros valores somados são menores que o ultimo valor");
 		}
